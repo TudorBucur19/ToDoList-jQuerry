@@ -12,6 +12,10 @@ h1 {
 	float: right;
 }
 
+.hidden {
+	display: none;
+}
+
 body {
 	
 
